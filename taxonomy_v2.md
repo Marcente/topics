@@ -1,4 +1,4 @@
-| ID  | Topic                                                                                                    |
+	/Belleza y fitness/Cuidado facial y corporal| ID  | Topic                                                                                                    |
 | --- | -------------------------------------------------------------------------------------------------------- |
 | 1   | /Arts & Entertainment                                                                                    |
 | 350 | /Arts & Entertainment/Celebrities & Entertainment News                                                   |
